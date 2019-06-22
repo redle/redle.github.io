@@ -2,7 +2,8 @@
 layout: post
 author: redle
 ---
-*** UNDER CONSTRUCTION ***
+
+Some references to create a GH Page.
 
 Reference:
 https://github.com/qoolixiloop/qool-jekyll_step_by_step-loop
