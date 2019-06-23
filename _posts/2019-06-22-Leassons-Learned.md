@@ -1,6 +1,7 @@
 ---
 layout: post
 author: redle
+title: Some leasons learned!
 ---
 
  Some leasons learned...
