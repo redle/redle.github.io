@@ -1,7 +1,7 @@
 ---
 layout: post
 author: redle
-title: USB Bad
+title: Raspberry
 ---
 
 ## Configure wifi
