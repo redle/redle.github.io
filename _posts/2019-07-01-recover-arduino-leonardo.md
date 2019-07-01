@@ -78,3 +78,8 @@ RPI: 23 (SPI0 SCLK) <-> Arduino: SCLK
 > https://www.instructables.com/id/Fixing-Bootloader-on-Arduino-Leonardo-ProMicro-Wit/
 > https://learn.sparkfun.com/tutorials/installing-an-arduino-bootloader
 > https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
+
+## Links:
+> <https://www.raspberrypi.org/downloads/raspbian/>
+> <https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md>
+> <https://raspberrypihq.com/how-to-connect-your-raspberry-pi-to-wifi/>
