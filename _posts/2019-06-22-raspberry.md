@@ -15,6 +15,6 @@ iface wlan0 inet dhcp
 ```
 
 # Links:
-> https://www.raspberrypi.org/downloads/raspbian/
-> https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
-> https://raspberrypihq.com/how-to-connect-your-raspberry-pi-to-wifi/
+> <https://www.raspberrypi.org/downloads/raspbian/>
+> <https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md>
+> <https://raspberrypihq.com/how-to-connect-your-raspberry-pi-to-wifi/>
