@@ -56,7 +56,7 @@ Burn the Bootloader
 Tools > Burn Bootloader
 
 
-# Conecting Raspberry PI And Arduino:
+## Conecting Raspberry PI And Arduino:
 ```
 RPI: 24 (SPI0 CS0) <-> Arduino: RST
 RPI: 19 (SPI0 MOSI) <-> Arduino: MOSI
