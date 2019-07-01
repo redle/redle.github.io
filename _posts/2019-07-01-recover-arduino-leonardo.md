@@ -65,16 +65,16 @@ RPI: 21 (SPI0 MISO) <-> Arduino: MISO
 RPI: 23 (SPI0 SCLK) <-> Arduino: CLK
 ```
 
-# Pinout boards
+## Pinout boards
 
-## Arduino
+### Arduino
 ![alt text](https://simba-os.readthedocs.io/en/latest/_images/arduino-pro-micro-pinout.png "Pinout Arduino Pro Micro")
 
-## Raspberry PI 3
+### Raspberry PI 3
 ![alt text](https://camo.githubusercontent.com/3af697a8467ed5288e78a473e873625fa2b9811c/68747470733a2f2f6d6172636f6d696e657276612e626c6f622e636f72652e77696e646f77732e6e65742f70686f746f732f5261737062657272795069325f50696e6f75742e706e67 "Pinout Raspberry PI 3")
 
 ## References:
-> [https://github.com/gojimmypi/arduino]
-> [https://www.instructables.com/id/Fixing-Bootloader-on-Arduino-Leonardo-ProMicro-Wit/]
-> [https://learn.sparkfun.com/tutorials/installing-an-arduino-bootloader]
-> [https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq]
+> https://github.com/gojimmypi/arduino
+> https://www.instructables.com/id/Fixing-Bootloader-on-Arduino-Leonardo-ProMicro-Wit/
+> https://learn.sparkfun.com/tutorials/installing-an-arduino-bootloader
+> https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
