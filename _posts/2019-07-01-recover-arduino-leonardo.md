@@ -59,10 +59,10 @@ Tools > Burn Bootloader
 
 # Conecting Raspberry PI And Arduino:
 ```
-RPI: 24 (SPI0 CS0) <-> Arduino: Reset
+RPI: 24 (SPI0 CS0) <-> Arduino: RST
 RPI: 19 (SPI0 MOSI) <-> Arduino: MOSI
 RPI: 21 (SPI0 MISO) <-> Arduino: MISO
-RPI: 23 (SPI0 SCLK) <-> Arduino: CLK
+RPI: 23 (SPI0 SCLK) <-> Arduino: SCLK
 ```
 
 ## Pinout boards
