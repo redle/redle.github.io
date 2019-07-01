@@ -6,9 +6,8 @@ title: Recover Arduino Leonardo with Raspberry PI
 
 # Recover bootloader with Raspberry
 
-This process was used to recover bootload on Arduino Leonardo Pro Micro and BadUsb Arduino.
+This process was used to recover bootloader on Arduino Leonardo Pro Micro and BadUsb CJMCU.
 
-Both was with bootloader bricked!
 
 
 ## Download Raspbian PI with Desktop
