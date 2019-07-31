@@ -14,7 +14,7 @@ iface wlan0 inet dhcp
        wpa-psk pre-shared-key
 ```
 
-# Links:
+# References:
 > <https://www.raspberrypi.org/downloads/raspbian/>
 > <https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md>
 > <https://raspberrypihq.com/how-to-connect-your-raspberry-pi-to-wifi/>
